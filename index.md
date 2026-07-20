@@ -1,6 +1,6 @@
 ---
 title: Research and Teaching in the Critical Study of Religion and Beyond
-permalink: /about/
+
 ---
 
 
