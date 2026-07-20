@@ -4,7 +4,7 @@ Welcome to my website.
 
 I am a scholar of religion, with particular interests in early Christianity,apocalypticism, slavery, and radical religious movements.
 
-## Research
+## Current Research
 
 My current research includes:
 
