@@ -3,6 +3,7 @@ title: Research
 permalink: /research/
 ---
 
+![Illustration of dervishes form early modern English book](images/pic04.jpg)
 
 In general terms, my research critically examines various forms of religion — ancient, early modern and contemporary — in their historical, social, and cultural contexts. More specifically:
 
