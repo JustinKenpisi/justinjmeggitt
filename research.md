@@ -3,6 +3,8 @@ title: Research
 permalink: /research/
 ---
 
+![picture](images/pic01.jpg)
+
 In general terms, my research critically examines various forms of religion — ancient, early modern and contemporary — in their historical, social, and cultural contexts. More specifically:
 
 ## Current Research 
