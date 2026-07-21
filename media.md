@@ -12,7 +12,7 @@ However, from 2011, I have now begun documenting my various media work, and publ
 
  
 
-[**‘Igreja Anglicana avalia se referir a Deus com pronomes neutros’**](https://veja.abril.com.br/religiao/igreja-anglicana-avalia-se-referir-a-deus-com-pronomes-neutros/) (Veja Magazine, Brazil, 16 April 2023). Interviewee.
+[‘Igreja Anglicana avalia se referir a Deus com pronomes neutros’](https://veja.abril.com.br/religiao/igreja-anglicana-avalia-se-referir-a-deus-com-pronomes-neutros/) (Veja Magazine, Brazil, 16 April 2023). Interviewee.
 
 **Other Edens,** podcast. (19 October 2022). Adviser.
 
