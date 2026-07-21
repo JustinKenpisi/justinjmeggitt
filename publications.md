@@ -4,6 +4,12 @@ permalink: /publications/
 ---
 
 
+![Title page of Benjamin Lay's *All Slave-keepers ... Apostates*](images/pic02.jpg) 
+
+
+
+
+
 This page includes all my publications without distinguishing between the different subject areas within which I work. 
 
  
