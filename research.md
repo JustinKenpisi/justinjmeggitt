@@ -3,14 +3,14 @@ title: Research
 permalink: /research/
 ---
 
-My research examines religion in its historical and social contexts.
+In general terms, my research critically examines various forms of religion — ancient, early modern and contemporary — in their historical, social, and cultural contexts. More specifically:
 
 ## Current Research 
 
 Three particular research projects are occupying me at present:
 
 - Benjamin Lay and early abolitionism
-- Conceptualising Contemporary Christadelphianism
+- Conceptualising contemporary Christadelphianism
 - Apocalyptic belief and existential threat
 
 
