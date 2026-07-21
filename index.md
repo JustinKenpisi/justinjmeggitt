@@ -1,5 +1,6 @@
 ---
 title: Research and Teaching in the Critical Study of Religion
+author:  
 ---
 
 ![Detail from ceiling of the Cambridge American Cemetery Chapel](images/pic01.jpg)
