@@ -20,3 +20,10 @@ Finally, I should emphasise that I care a great deal about the public understand
 ## Contact
 
 You can contact me at [jjm1000@cam.ac.uk](mailto:jjm1000@cam.ac.uk).
+
+
+<style>
+  .footer {
+    display: none;
+  }
+</style>
