@@ -1,6 +1,11 @@
+<style>
+  .footer {
+    display: none;
+  }
+</style>
+
 ---
 title: Research and Teaching in the Critical Study of Religion and Beyond
-
 ---
 
 ![Detail from ceiling of the Cambridge American Cemetery Chapel](images/pic01.jpg)
@@ -21,9 +26,3 @@ Finally, I should emphasise that I care a great deal about the public understand
 
 You can contact me at [jjm1000@cam.ac.uk](mailto:jjm1000@cam.ac.uk).
 
-
-<style>
-  .footer {
-    display: none;
-  }
-</style>
