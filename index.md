@@ -13,9 +13,11 @@ In addition, I have an abiding interest in the critical study of the lived relig
 
 I am currently Professor of the Study of Religion in the Faculty of Divinity, University of Cambridge, and a Fellow of Wolfson College. I have also been a Visiting Researcher at the Institutionen för etnologi, religionshistoria och genusvetenskapm Stockholms universitet since 2012. 
 
-I established and currently coordinate the MPhil Pathway in Religion and Conflict in the Faculty of Divinity and also oversee the [*Centre for the Critical Study of Apocalyptic and Millenarian Movements*](https://censamm.org/) that I helped found in 2015.
+I established and currently coordinate the MPhil Pathway in Religion and Conflict in the Faculty of Divinity and also oversee the [*Centre for the Critical Study of Apocalyptic and Millenarian Movements*](https://censamm.org/) that I helped found in 2015. 
 
 I also supervise postgraduates in all my areas of research interest — ancient, early modern, and contemporary — and am always happy to talk to prospective students.
+
+In addition, I am an advocate of open-access scholarly publishing, in which articles and books are freely available to anyone in electronic form, and especially of _diamond_ open access, in which there is no cost to authors, their institutions, or readers. It can and should be done! In many of the fields within which I work, it is not unusual for a research monograph to cost over £150, preventing most people from accessing the work that we do.
 
 On a personal note, I was married to Melanie Jane Wright (1970–2011), who was, among many other things, a scholar of modern Judaism and a pioneer in the study of religion and film. You can find her work [here](http://www.melaniewright.info).
 
