@@ -17,7 +17,7 @@ I established and currently coordinate the MPhil Pathway in Religion and Conflic
 
 I also supervise postgraduates in all my areas of research interest — ancient, early modern, and contemporary — and am always happy to talk to prospective students.
 
-In addition, I am an advocate of open-access scholarly publishing, in which articles and books are freely available to anyone in electronic form, and especially of diamond open access, in which there is no cost to authors, their institutions, or readers. It can and should be done! In many of the fields in which I work, it is not unusual for a monograph to cost over £150, preventing most people who do not belong to institutions willing to pay such exorbitant prices from accessing our research.
+Alongside my teaching and research, I am an advocate of open-access scholarly publishing, especially _diamond_ open access, in which books and articles are made freely available in electronic form at no cost to authors, their institutions, or readers. It can and should be done!
 
 On a personal note, I was married to Melanie Jane Wright (1970–2011), who was, among many other things, a scholar of modern Judaism and a pioneer in the study of religion and film. You can find her work [here](http://www.melaniewright.info).
 
