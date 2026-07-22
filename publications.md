@@ -4,6 +4,8 @@ permalink: /publications/
 ---
 
 
+![Title page from early Quaker publication](images/pic05.jpg)
+
 
 This page includes all my publications without distinguishing between the different subject areas within which I work. 
 
